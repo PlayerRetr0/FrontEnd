@@ -1,0 +1,16 @@
+body{
+    text-align:center; 
+    background-image: url(../assets/3aac6d9ef059fcfb81c2e191c5e6cdae.jpg);
+    background-size: cover; 
+    color:blueviolet;
+}
+
+.nota{
+    background-color: black;
+    color: darkblue;
+}
+.fundo{
+    background-color: darkblue;
+    color: black;
+}
+
