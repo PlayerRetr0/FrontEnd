@@ -1,16 +1,35 @@
 body{
     text-align:center; 
-    background-image: url(../assets/3aac6d9ef059fcfb81c2e191c5e6cdae.jpg);
+    background-image: url(../assets/1190683.jpg);
     background-size: cover; 
     color:blueviolet;
 }
 
 .nota{
-    background-color: black;
+    display: inline;
     color: darkblue;
 }
-.fundo{
-    background-color: darkblue;
+.fundo{ 
+    display: inline;
     color: black;
 }
+h2, a{
+    display: inline; background-color: white;
+}
+h3, h1{
+    display: inline;
+    background-color: white;
+}
+.img{
+    position:relative;
+    top: 50%;
+    right: 30%;
+
+}
+.seta{
+    position:relative;
+    top: 50%;
+    left: 30%;
+}
+
 
