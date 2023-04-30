@@ -1,0 +1,34 @@
+ h3{
+    padding: 20px;
+    color: white;
+ }
+ body{
+    background-color: black;
+ }
+ .col{
+    color: white;
+ }
+ .colum{
+   padding: 30px;
+ }
+
+.form-control{
+   background-color: black !important;
+   color: white!important;
+
+}
+.form-control::placeholder{
+   color: white;
+}
+img{
+   border-radius: 10px;
+}
+.card{
+   color: white;
+}
+.titulo{
+   color: red;
+}
+.titulo2{
+   color: green;
+}
