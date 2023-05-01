@@ -20,16 +20,4 @@ h3, h1{
     display: inline;
     background-color: white;
 }
-.img{
-    position:relative;
-    top: 50%;
-    right: 30%;
-
-}
-.seta{
-    position:relative;
-    top: 50%;
-    left: 30%;
-}
-
 

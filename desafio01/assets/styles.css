@@ -3,7 +3,7 @@
     color: white;
  }
  body{
-    background-color: black;
+    background-color: rgb(37, 34, 34);
  }
  .col{
     color: white;
@@ -13,7 +13,7 @@
  }
 
 .form-control{
-   background-color: black !important;
+   background-color: rgb(37, 34, 34) !important;
    color: white!important;
 
 }
@@ -31,4 +31,11 @@ img{
 }
 .titulo2{
    color: green;
+}
+.rowtitulo{
+   display: flex;
+   justify-content:center;
+}
+h4{
+   padding: 10px;
 }
